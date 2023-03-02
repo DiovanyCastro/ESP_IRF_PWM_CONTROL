@@ -1,5 +1,0 @@
-source "C:/Users/Diovany/esp/esp-idf/components/app_update/Kconfig.projbuild"
-source "C:/Users/Diovany/esp/esp-idf/components/bootloader/Kconfig.projbuild"
-source "C:/Users/Diovany/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "C:/Users/Diovany/esp/esp-idf/components/partition_table/Kconfig.projbuild"
-source "C:/Users/Diovany/Desktop/biblioteca_de_arquivos/PROJETOS/PCA9685_B/pca9685/default/main/Kconfig.projbuild"

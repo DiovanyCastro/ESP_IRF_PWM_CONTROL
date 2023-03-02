@@ -27,7 +27,6 @@ void pca9685_test(void *pvParameters)
     ESP_ERROR_CHECK(pca9685_get_pwm_frequency(&dev, &freq));
 
     ESP_LOGI(TAG, "Freq %dHz, real %d", 60, freq);
-
     uint16_t val = 0;
     while (1)
     {
